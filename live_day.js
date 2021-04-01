@@ -1,6 +1,6 @@
 /*
 只能用一天。需每天寻找直播抓包
-1 8-23 1 * * redrain_day.js
+1 8-23 1 * * live_day.js
 */
 const $ = new Env('整点京豆雨');
 let allMessage = '';
